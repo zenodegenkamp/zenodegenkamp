@@ -2,7 +2,7 @@
 
 # ABOUT ME 
 
-**`Front End Developer` - `ENTREPRENEUR` - `UX DESIGNER` - `PRODUCT OWNER` **
+`Front End Developer` - `ENTREPRENEUR` - `UX DESIGNER` - `PRODUCT OWNER` 
 
 Hi there 👋 I'm Zeno, a driven young professional with a background in business and IT. I have a Master's degree in Entrepreneurship and a Bachelor's degree in Business Administration, as well as a minor in programming. I have experience working in the IT industry, where I have held roles as a team leader, IT tester, and project coordinator. In my free time, I love to go to the gym, read a book, or travel around the world! I am currently looking for opportunities to apply my skills and knowledge in the role of Product Owner. 
 
