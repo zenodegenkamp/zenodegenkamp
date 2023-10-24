@@ -21,11 +21,8 @@ Hi there 👋 I'm Zeno, a driven young professional with a background in busines
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <br />
 
-#
 
 ### 🔨 Latest Projects
-
-<!-- BEGIN YOUTUBE-CARDS -->
 * **Portfolio website**
     * [https://zenodegenkamp.nl/](https://zenodegenkamp.nl/)
 * **3D portfolio concept**
@@ -43,12 +40,13 @@ Hi there 👋 I'm Zeno, a driven young professional with a background in busines
 * **Icon ninja game**
     * [https://icon-ninja.netlify.app/](https://icon-ninja.netlify.app/)
 
-<!-- END YOUTUBE-CARDS -->
-
-
 
 ### 📊 Stats - 
-
+<div style="text-align: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zenodegenkamp&count_private=true&show_icons=true&theme=prussian" width="400">
+<br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenodegenkamp&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</div>
 
 # 
 
