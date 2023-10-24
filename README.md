@@ -21,6 +21,7 @@ Hi there 👋 I'm Zeno, a driven young professional with a background in busines
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <br />
 
+---
 
 ### 🔨 Latest Projects
 * **Portfolio website**
@@ -40,6 +41,7 @@ Hi there 👋 I'm Zeno, a driven young professional with a background in busines
 * **Icon ninja game**
     * [https://icon-ninja.netlify.app/](https://icon-ninja.netlify.app/)
 
+---
 
 ### 📊 Stats - 
 <div style="text-align: center">
