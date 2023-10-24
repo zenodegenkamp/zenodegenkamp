@@ -1,10 +1,10 @@
 
 
-# 👾 ABOUT ME 
+# ABOUT ME 
 
-`Front End Developer` - `ENTREPRENEUR` - `UX DESIGNER` - `PRODUCT OWNER` 
+**`Front End Developer` - `ENTREPRENEUR` - `UX DESIGNER` - `PRODUCT OWNER` **
 
-Hi there 👋 I'M ZENO, A DRIVEN PROFESSIONAL WITH A BACKGROUND IN BUSINESS AND IT. I'M PASSIONATE ABOUT FITNESS, READING, AND TRAVEL. NOW, I'M AIMING TO EXCEL AS A PRODUCT OWNER. EXPLORE MY PROFILE TO LEARN MORE ABOUT ME!
+Hi there 👋 I'm Zeno, a driven young professional with a background in business and IT. I have a Master's degree in Entrepreneurship and a Bachelor's degree in Business Administration, as well as a minor in programming. I have experience working in the IT industry, where I have held roles as a team leader, IT tester, and project coordinator. In my free time, I love to go to the gym, read a book, or travel around the world! I am currently looking for opportunities to apply my skills and knowledge in the role of Product Owner. 
 
 
 ---
@@ -26,43 +26,42 @@ Hi there 👋 I'M ZENO, A DRIVEN PROFESSIONAL WITH A BACKGROUND IN BUSINESS AND 
 ### 🔨 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-Project 1: -
-Project 2: -
-Project 3: - 
-Project 4: -
+* **Portfolio website**
+    * [https://zenodegenkamp.nl/](https://zenodegenkamp.nl/)
+* **3D portfolio concept**
+    * [https://zeno-degenkamp.netlify.app/](https://zeno-degenkamp.netlify.app/)
+* **AI story generator**
+    * [https://marvelous-fenglisu-f6d29b.netlify.app/](https://marvelous-fenglisu-f6d29b.netlify.app/)
+* **AI chatbot**
+    * [https://zingy-cassata-2ad8ad.netlify.app/](https://zingy-cassata-2ad8ad.netlify.app/)
+* **REACT platform**
+    * [https://codeconnect-react.netlify.app/](https://codeconnect-react.netlify.app/)
+* **Interactieve quiz game**
+    * [https://hidden-quiz-minigame.netlify.app/](https://hidden-quiz-minigame.netlify.app/)
+* **Travel journal**
+    * [https://travel-react-zeno.netlify.app/](https://travel-react-zeno.netlify.app/)
+* **Icon ninja game**
+    * [https://icon-ninja.netlify.app/](https://icon-ninja.netlify.app/)
 
 <!-- END YOUTUBE-CARDS -->
 
-#
 
-### 📊 Stats - Front End Development Path
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64f9becf5ce9f4ca589e6d6f?variant=dark)](https://roadmap.sh)
+### 📊 Stats - 
+
 
 # 
 
 ### 🦜 Let's connect
 
-  <a href="mailto:alessandrodegenkamp@hotmail.com" target="_blank">
+  <a href="mailto:`zenodegenkamp@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://nl.linkedin.com/in/alessandro-degenkamp-390a231b5" target="_blank">
+  <a href="https://nl.linkedin.com/in/zeno-degenkamp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
-# 
 
-<details>
- <summary><h3>👨‍💻 Alessndro's Coding Journey</h3></summary>
-
-I've always had a keen interest in business, entrepreneurship, and the world of technology. While pursuing my studies in business administration and later earning my Master's degree in Entrepreneurship, I couldn't help but be drawn to the endless possibilities that technology and programming offered.
-
-My first real interaction with coding happened during my time at the University of Amsterdam (UvA), where I embarked on a minor in Programming. After graduating with my Bachelor's and Master's degrees, I decided to take a brief hiatus from studying to explore the world and immerse myself in different cultures. I spent an incredible 8 months traveling through Asia, soaking in the sights, sounds, and inspirations from all corners of the globe.
-
-During my travels, I realized that my passion for coding and web development was still very much alive and that I wanted to pursue it further. The dynamic world of front-end web development, in particular, captured my imagination.
-And so, I returned from my adventures in Asia with a renewed sense of purpose. I embarked on a journey to learn and master front-end web development.
-
-[website]: -
 <!--
 **zenodegenkamp/zenodegenkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
